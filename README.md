@@ -1,8 +1,9 @@
-Here is an Example of most of the FHIR Actions that could be done on your project including:
-- Get all Patients
-- Add Patient
-- Search Patient name
-- Create New Patient
-- Delete Patient
+This Fihr Program Can:
 
-Noting that the Patient could be any resource you are interested in 
+List all Patients
+Add Patient
+Search Patient name
+Create New Patient
+Delete Patient
+
+Note: Unzip the packages file in project directory before running
